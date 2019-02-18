@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Santana&apos;s Pub'/>
+        <page name='variables, data types, interpolation'/>
+        <page name='UIKit'/>
+        <page name='char, string, bool'/>
+        <page name='set, array, dictionary'/>
+        <page name='Excercise - Collection'/>
+        <page name='Conditional if'/>
+        <page name='Excercise - numbers of students'/>
+        <page name='Loops'/>
+        <page name='Excerise - Loop'/>
+    </pages>
+</playground>
